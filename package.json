@@ -1,0 +1,15 @@
+{
+  "name": "real-estate-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "scripts": {
+    "build": "pnpm -r build:webpack",
+    "start": "pnpm --parallel -r start",
+    "format": "pnpm --parallel -r format"
+  },
+  "dependencies": {
+    "pnpm": "^8.1.1"
+  }
+}
