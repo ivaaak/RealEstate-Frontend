@@ -1,0 +1,9 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": ["src/real-estate-root-config.ts"],
+  "compilerOptions": {
+    "declarationDir": "dist"
+  },
+  "include": ["./src", "./.eslintrc.js", "./webpack.config.js"],
+  "exclude": ["node_modules"]
+}

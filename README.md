@@ -24,4 +24,4 @@
     pnpm start
     ```
     
-This will start all of the microfrontends at `localhost:3000` in your Browser.
+This will start all of the microfrontends at `localhost:8000` in your Browser.
